@@ -18,5 +18,5 @@ def assign_rooms(attendees)
 end
 
 def badge_maker(name)
-  "Hello, my name is #{name}."
+  return "Hello, my name is #{name}."
 end
